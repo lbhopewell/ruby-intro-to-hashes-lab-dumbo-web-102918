@@ -4,7 +4,7 @@ my_hash
 end
 
 def actor
-celeb = {
+celeb = {name: ""
 end
 
 def monopoly
